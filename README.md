@@ -23,8 +23,6 @@ To run this project locally or deploy it to a server, you will need the followin
 1. Tableau Desktop
 2. Internet connection to fetch the latest data
 
-## License
-This project is licensed under the MIT License. Feel free to modify and distribute the code as per the terms of the license.
 
 ## Acknowledgments
 The Tableau community for their valuable resources and support.
