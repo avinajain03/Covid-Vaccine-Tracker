@@ -1,9 +1,8 @@
 # Covid-19 Vaccination Tracker
+![tracker](https://github.com/avinajain03/Covid-Vaccine-Tracker/assets/125721987/1fa81d7a-1fc0-42aa-a8da-9b7ddd85436f)
 
 ## Introduction
-This project aims to provide a comprehensive visualization of the COVID-19 vaccination progress worldwide. The dashboard is built using Tableau and utilizes real-time data to display key statistics and trends related to COVID-19 vaccinations.
 The Tableau project for COVID-19 vaccination tracker aims to provide an interactive and visually appealing dashboard that monitors and analyzes the progress of vaccination efforts worldwide. Utilizing Tableau's data visualization capabilities, the project integrates real-time vaccination data from reliable sources. The dashboard provides comprehensive insights such as vaccination rates, share of people fully vaccinated or partially vaccinated, regional comparisons, vaccination doses on daily basis and correlation between vaccination and GDP. 
-
 
 ## Features
 1. Global Overview: An interactive map displaying vaccination rates by country.
